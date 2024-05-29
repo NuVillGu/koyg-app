@@ -1,0 +1,88 @@
+[
+    {
+        id_user: 4,
+        cardholder: 'Charles Pelletier',
+        card_number: '3498731983250385', 
+        expiration_date: '2023-12-00',
+        cvc: 326,
+        card_type: 'AE'
+    },
+    {
+        id_user: 6,
+        cardholder: 'Darko Silić',
+        card_number: '4365572166002617', 
+        expiration_date: '2026-04-00',
+        cvc: 452,
+        card_type: 'V'
+    },
+    {
+        id_user: 7,
+        cardholder: 'Francisca Santos Santana',
+        card_number: '5080831107892879', 
+        expiration_date: '2024-02-00',
+        cvc: 322,
+        card_type: 'MC'
+    },
+    
+    {
+        id_user: 8,
+        cardholder: 'Scott Howard',
+        card_number: '4689798606596020', 
+        expiration_date: '2024-09-00',
+        cvc: 879,
+        card_type: 'V'
+    },
+    {
+        id_user: 13,
+        cardholder: 'Luciene Dias Pérez',
+        card_number: '5056455625777857', 
+        expiration_date: '2026-01-00',
+        cvc: 527,
+        card_type: 'MC'
+    },
+    {
+        id_user: 14,
+        cardholder: 'Danischa Kralt',
+        card_number: '4299096102722253', 
+        expiration_date: '2025-07-00',
+        cvc: 391,
+        card_type: 'V'
+    },
+    {
+        id_user: 17,
+        cardholder: 'Horst Le Gall',
+        card_number: '3408817151179602', 
+        expiration_date: '2027-03-00',
+        cvc: 294,
+        card_type: 'AE'
+    },
+    {
+        id_user: 18,
+        cardholder: 'Maria Evans',
+        card_number: '3481820497017072', 
+        expiration_date: '2025-11-00',
+        cvc: 723,
+        card_type: 'AE'
+    },
+    {
+        id_user: 19,
+        cardholder: 'Tom Leroux',
+        card_number: '4295842756533890', 
+        expiration_date: '2024-10-00',
+        cvc: 461,
+        card_type: 'V'
+    },
+    {
+        id_user: 20,
+        cardholder: 'Sirene Carvalho Da Silva',
+        card_number: '5001139187634351', 
+        expiration_date: '2025-05-00',
+        cvc: 648,
+        card_type: 'MC'
+    }
+]
+
+
+
+
+

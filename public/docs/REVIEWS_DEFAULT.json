@@ -1,0 +1,90 @@
+[
+	{
+		id_user: 7
+		id_product: 3
+		comment: "Really beautiful and versatile trainers, work with everything but are too rough. I've been wearing them for at least two weeks and they still haven't fit to my feet shape"
+		rating: 3
+	},
+	{
+		id_user: 7
+		id_product: 4
+		comment: "Based on positive reviews about this product, I decided to buy it. Definitely not for me. It doesn't cover the head properly, and it's quite tight. It runs small. Aesthetically, it's very nice"
+		rating: 2
+	},
+	{
+		id_user: 8
+		id_product: 4
+		comment: "Very comfortable and warm. It fits really well, I recommend it"
+		rating: 4
+	},
+	{
+		id_user: 8
+		id_product: 16
+		comment: "The dress fits well and is very comfortable. It's of good quality, but the color of the product does not match that of the image. I attach a picture for your reference."
+		images:  ["/images/reviews/16_8_1.jpg","/images/reviews/16_8_2.jpg"]
+		rating: 2.5
+	},
+	{
+		id_user: 8
+		id_product: 17
+		comment: "Good product, good fabric and sizing, just that the color is slightly darker than shown in the image."
+		rating: 3.5
+	},
+	{
+		id_user: 9
+		id_product: 13
+		comment: "The fabric quality is poor."
+		rating: 1.5
+	},
+	{
+		id_user: 9
+		id_product: 14
+		comment: "Very good product. Recommended!! ❤️❤️"
+		rating: 4
+	},
+	{
+		id_user: 9
+		id_product: 23
+		comment: "The material is good and the shirt is very nice, but it fits too snugly. The sleeves are too short and it doesn't sit well on the chest."
+		rating: 2.5
+	},
+	{
+		id_user: 9
+		id_product: 5
+		comment: "GORGEOUS!!! It runs so well and is so comfortable that I bought it in all available colors. A must-have piece for this winter :D"
+		rating: 5
+	},
+	{
+		id_user: 10
+		id_product: 8
+		comment: "The material is very soft and comfortable. It's very warm but suitable for any time of the year. The design is classic and timeless, it's really beautiful, just like the pictures. The only problem is that it's too loose, I expected it to be a bit smaller. Still, very good product, recommended!!!!"
+		rating: 4
+	},
+	{
+		id_user: 10
+		id_product: 17
+		comment: "Very elegant trousers. A must-have wardrobe staple!"
+		images: ["/images/reviews/17_10_1.jpg"]
+		rating: 4.5
+	},
+	{
+		id_user: 10
+		id_product: 21
+		comment: "Too short. I recommend getting a larger size than usual."
+		rating: 2
+	},
+	{
+		id_user: 11
+		id_product: 12
+		comment: "A beautiful and very elegant coat. The fit is correct and it's very flattering. The fur collar arrived defective, probably due to packaging and transport issues, but it arrived flattened and very messy. I attach pictures."
+		images:  ["/images/reviews/12_11_1.jpg","/images/reviews/12_11_2.jpg","/images/reviews/12_11_3.jpg"]
+		rating: 3.5
+	},
+	{
+		id_user: 11
+		id_product: 1
+		comment: "I've been using them since approx a month and I LOVE THEM!"
+		rating: 5
+	}
+]
+
