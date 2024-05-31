@@ -67,3 +67,53 @@ tbody tr:hover .runout_size-p_list {
   color: #64748b;
   border: 1px solid #64748b !important;
 }
+
+
+/* Carousel */
+
+.carousel {
+  display: table-cell !important;
+  vertical-align: bottom;
+}
+
+.carousel .thumbs {
+  display: contents;
+}
+
+.carousel-root {
+  display: -webkit-box;
+}
+
+.carousel .thumbs-wrapper {
+  margin: 5px;
+  padding: 5px;
+  display: inline-grid;
+}
+
+.carousel .thumb {
+  display: inherit;
+  border: 0px !important;
+  padding: 0px !important;
+  margin: 0px !important;
+  opacity: .15;
+}
+
+.carousel .thumb.selected {
+  transition: opacity .25s ease-in;
+  opacity: 1;
+}
+
+.carousel .thumbs-wrapper {
+  display: inline-grid;
+  padding: 0px !important;
+  margin: 0px !important;
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+}
+
+.carousel .control-dots .dot {
+  box-shadow: 1px 1px 2px #831bf1 !important;
+  border-radius: 30% !important;
+  width: 15px !important;
+  height: 5px !important;
+}

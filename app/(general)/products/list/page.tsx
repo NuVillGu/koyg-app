@@ -34,9 +34,9 @@ export default function ProductsList() {
         <>
             
             <div>
-            <div>
-                <Tabs/>
-            </div>
+
+                
+
                 <div className="mb-10">
                     <div className="text-xs flex items-center">
                         <Link href="/" className="mr-1">PRODUCTS</Link>
@@ -47,6 +47,11 @@ export default function ProductsList() {
                     </div>
                     <div className="font-bold text-2xl mt-14">PRODUCTS LIST</div>
                 </div>
+
+                <div>
+                    <Tabs/>
+                </div> 
+
                 <div className="flex items-center py-5 justify-end max-w-full">
                     <MdOutlineAdd className="text-xl mx-1"/>
                     <PiFileCsvLight className="text-2xl mx-0.5"/>
@@ -232,7 +237,7 @@ export default function ProductsList() {
                                 <li><span><MdOutlineKeyboardDoubleArrowRight/></span></li>
                             </ul>
                         </div>
-                    </div>   
+                    </div>  
             </div>
 
 
